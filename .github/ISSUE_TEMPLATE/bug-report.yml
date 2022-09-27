@@ -16,7 +16,7 @@ body:
         required: true
       - label: Does your issue already [exist](https://github.com/issues?q=is%3Aissue+user%3Apulsar-edit+is%3Aopen)? 
         required: true
-      - label: You are the latest release of Pulsar?
+      - label: Have you checked you are on the latest release of Pulsar?
         required: true
 - type: textarea
   id: what-happened
