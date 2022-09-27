@@ -73,7 +73,7 @@ body:
       "What other details can you provide?"
     label: "Additional Information:"
     placeholder: |
-      Add any other information or screenshots relating to the bug here. |
+      Add any other information or screenshots relating to the bug here.
       If building from source please provide the commit hash here.
   validations:
     required: false
