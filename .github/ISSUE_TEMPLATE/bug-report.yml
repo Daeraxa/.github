@@ -23,7 +23,8 @@ body:
   attributes:
     label: What happened?
     placeholder: Tell us what happened!
-    required: true
+    validations:
+      required: true
 - type: dropdown
   id: os-info
   attributes:
@@ -43,7 +44,8 @@ body:
   attributes:
     label: OS details
     placeholder: OS version
-    required: true
+    validations:
+      required: true
 - type: dropdown
   id: sys-info
   attributes:
