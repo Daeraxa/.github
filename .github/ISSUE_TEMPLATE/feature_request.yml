@@ -3,7 +3,7 @@ description: 💡 Got an idea for us?
 labels: ["enhancement", "documentation"]
 body:
 - type: checkboxes
- attributes:
+  attributes:
    label: Have you checked for existing feature requests?
    description: "Check the backlog of issues to reduce the chances of creating duplicates; if a request already exists, place a `+1` (👍) on it."
      options:
