@@ -1,6 +1,5 @@
-name: "\U0001F41B New Bug Report"
+name: 🐛 New Bug Report
 description: Help Pulsar improve by filing a bug report
-title: ""
 labels: ["bug", "triage", "question", "modernization"]
 body:
 - type: checkboxes
