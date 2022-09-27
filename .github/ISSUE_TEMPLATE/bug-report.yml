@@ -43,7 +43,7 @@ body:
   id: os-version
   attributes:
     label: OS details
-    placeholder: OS version
+    placeholder: OS version, distribution etc.
   validations:
     required: true
 - type: dropdown
