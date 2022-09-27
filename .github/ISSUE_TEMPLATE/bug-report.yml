@@ -30,16 +30,16 @@ body:
   attributes:
     label: Which OS does this happen on?
     options:
-      - Debian based (Linux Mint, Ubuntu, etc.)
-      - Arch based (Manjaro, Garuda, etc.)
-      - Red Hat based (Fedora, Alma, RockyLinux, CentOS Stream, etc.)
-      - OpenSUSE based
-      - macOS
-      - Windows
-      - Other(Please specify in the OS details field below)
+      - 🐧 Debian based (Linux Mint, Ubuntu, etc.)
+      - 🐧 Arch based (Manjaro, Garuda, etc.)
+      - 🐧 Red Hat based (Fedora, Alma, RockyLinux, CentOS Stream, etc.)
+      - 🐧 OpenSUSE based
+      - 🍎 macOS
+      - 🪟 Windows
+      - ❓ Other(Please specify in the OS details field below)
   validations:
     required: true
-- type: textarea
+- type: input
   id: os-version
   attributes:
     label: OS details
