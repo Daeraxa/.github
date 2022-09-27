@@ -29,7 +29,7 @@ body:
   id: alternatives
   attributes:
     description: |
-      "Are there any other possible alternatives? (Is this really the best solution or only option to add this feature? Could it be a community package?)"
+      Are there any other possible alternatives? (Is this really the best solution or only option to add this feature? Could it be a community package?)
     label: "Any alternatives?"
     placeholder: |
       A clear and concise description of the alternative solutions you've considered. Be sure to explain why Pulsar's existing customizability isn't suitable for this feature.
@@ -39,7 +39,7 @@ body:
   id: prior-examples
   attributes:
     description: |
-      "Do you know of any examples of this feature in other applications?"
+      Do you know of any examples of this feature in other applications?
     label: "Other examples:"
     placeholder: |
       Add examples here - application name, screeenshots of the feature etc.
