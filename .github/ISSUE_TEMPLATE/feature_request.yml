@@ -4,11 +4,11 @@ labels: ["enhancement", "documentation"]
 body:
 - type: checkboxes
   attributes:
-   label: Have you checked for existing feature requests?
-   description: "Check the backlog of issues to reduce the chances of creating duplicates; if a request already exists, place a `+1` (👍) on it."
-     options:
-       - label: Completed
-         required: true
+    description: "Check the backlog of issues to reduce the chances of creating duplicates; if a request already exists, place a `+1` (👍) on it."
+    label: Have you checked for existing feature requests?
+      options:
+        - label: Completed
+          required: true
 - type: textarea
   id: summary
   attributes:
